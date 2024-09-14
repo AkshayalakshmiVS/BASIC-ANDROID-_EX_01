@@ -23,8 +23,8 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 # PROGRAM
-DEVELOPED BY : Vanisha Ramesh
-REGISTER NO: 212222040174
+DEVELOPED BY : Akshaya Lakshmi V S
+REGISTER NO: 212222040005
 MainActivity.java:
 ```
 package com.example.andriodlifecycle;
